@@ -8,7 +8,7 @@
   <version>1.0-SNAPSHOT</version>
 
   <name>java-version</name>
-  <url>https://www.alvarez.com</url>
+  <url>https://www.alvareze.com</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -19,7 +19,7 @@
       <dependency>
         <groupId>org.junit</groupId>
         <artifactId>junit-bom</artifactId>
-        <version>5.11.3</version>
+        <version>5.11.4</version>
         <type>pom</type>
         <scope>import</scope>
       </dependency>
