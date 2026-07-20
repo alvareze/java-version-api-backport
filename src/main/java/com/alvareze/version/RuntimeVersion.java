@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * Backport of Java Runtime version information found in JDK version 10 and later.
- * This code with with Java versions 5 and later.
+ * This code works with Java versions 5 and later.
  */
 public final class RuntimeVersion {
 
